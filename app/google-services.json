@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116433267108",
+    "project_id": "chatapp-bf3c2",
+    "storage_bucket": "chatapp-bf3c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116433267108:android:31544d8ac83b23d6c13931",
+        "android_client_info": {
+          "package_name": "com.kubrakaraguzelcompany.mychatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcM_NYwBrHq6WdCIAkOeX2JvOoTnXFysM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
